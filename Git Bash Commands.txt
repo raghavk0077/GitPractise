@@ -20,4 +20,4 @@ it deletes the git folder from your directory your directory will no longer be i
 it will clone the repository to your directory
 
 12- touch .gitignore
-it will create one file with name gitignore here we can give the name of files that we don't want to be staging area or tracking area
+it will create one file with name gitignore here we can give the name of files that we don't want to be on staging area or tracking area we can give directory name too which we don't want to track
