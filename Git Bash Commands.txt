@@ -1,0 +1,23 @@
+Git bash Commands
+
+1- git status
+.
+.
+.
+.
+.
+...
+8-  git add --a
+it will make all the files in staging area
+
+9-  git commit -m "Any message you can type regarding commit"
+this will commit all the changes with your message
+
+10- rm -rf .git
+it deletes the git folder from your directory your directory will no longer be initialized with git
+
+11- git clone anyUrl
+it will clone the repository to your directory
+
+12- touch .gitignore
+it will create one file with name gitignore here we can give the name of files that we don't want to be staging area or tracking area
