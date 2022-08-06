@@ -37,6 +37,11 @@ you can directly remove your file from git bash and it will automatically put it
 17- git mv filename renamed_filename
 it will change the name of filename and automatically put it in staging area where directly commit can be made
 
+18- git rm --cached filename.ext
+it will not remove the file else it will stop git from tracking those file
+
+
+
 
 
 
