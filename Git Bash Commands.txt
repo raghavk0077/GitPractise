@@ -30,3 +30,22 @@ it will compare your staging area with the last commit made
 
 15- git commit -a -m "Any comment"
 it will directly commit the files that are unmodified but untracked files will remain as such there will be no change on untracked files rest files that are unmodified will skip the staging area
+
+16- git rm filename.ext
+you can directly remove your file from git bash and it will automatically put it in staging area too
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
