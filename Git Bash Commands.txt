@@ -34,6 +34,9 @@ it will directly commit the files that are unmodified but untracked files will r
 16- git rm filename.ext
 you can directly remove your file from git bash and it will automatically put it in staging area too
 
+17- git mv filename renamed_filename
+it will change the name of filename and automatically put it in staging area where directly commit can be made
+
 
 
 
