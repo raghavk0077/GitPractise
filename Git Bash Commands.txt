@@ -21,3 +21,12 @@ it will clone the repository to your directory
 
 12- touch .gitignore
 it will create one file with name gitignore here we can give the name of files that we don't want to be on staging area or tracking area we can give directory name too which we don't want to track
+
+13- git diff
+it will compare working area with staging area
+
+14- git diff --staged
+it will compare your staging area with the last commit made
+
+15- git commit -a -m "Any comment"
+it will directly commit the files that are unmodified but untracked files will remain as such there will be no change on untracked files rest files that are unmodified will skip the staging area
