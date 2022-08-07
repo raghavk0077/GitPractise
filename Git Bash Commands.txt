@@ -40,6 +40,24 @@ it will change the name of filename and automatically put it in staging area whe
 18- git rm --cached filename.ext
 it will not remove the file else it will stop git from tracking those file
 
+19- git log -p
+it will give all the information about commits that has been made in the git repository
+
+20- git log -p -n
+(here n is any number of commits till you want to see)
+
+21- git log --stat
+here you can see all the changes made in the repository after each commit at a glance 
+
+22- git log --pretty=(oneline/short/full)
+oneline will give you all commits in one line without any information
+short will give you all commits made with author name
+full will give you author name and commit name
+
+23- git log --since=n.days/weeks/months/years
+where n is any number
+this will filter your log according to condition
+
 
 
 
