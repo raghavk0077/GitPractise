@@ -69,6 +69,10 @@ To make File restore/unmodify to previous commit
 it will make your directly look like when it was during last commit
 To make all Files restore/unmodify to previous commit
 
+27- git config --global alias.anyName 'any command you want to give alias'
+example => git config --global alias.st status
+git st AND git status ---- both will work same
+
 
 
 
