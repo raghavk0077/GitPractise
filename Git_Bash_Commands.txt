@@ -63,9 +63,11 @@ it will remove your file from staging area
 
 25- git checkout -- filename.ext
 it will make your file same as your last commit(it will remove new modifications made by you in file) if it is not staged
+To make File restore/unmodify to previous commit
 
 26- git checkout -f
 it will make your directly look like when it was during last commit
+To make all Files restore/unmodify to previous commit
 
 
 
