@@ -58,6 +58,15 @@ full will give you author name and commit name
 where n is any number
 this will filter your log according to condition
 
+24- git restore --staged filename.ext
+it will remove your file from staging area
+
+25- git checkout -- filename.ext
+it will make your file same as your last commit(it will remove new modifications made by you in file) if it is not staged
+
+26- git checkout -f
+it will make your directly look like when it was during last commit
+
 
 
 
