@@ -73,6 +73,15 @@ To make all Files restore/unmodify to previous commit
 example => git config --global alias.st status
 git st AND git status ---- both will work same
 
+28- git checkout -b <new-branch-name>
+To create new branch
+
+29- git checkout <branch-name>
+To switch into different branch
+
+30 - git branch
+To chheck all the branches in repository
+
 
 
 
