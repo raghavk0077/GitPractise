@@ -82,6 +82,9 @@ To switch into different branch
 30 - git branch
 To chheck all the branches in repository
 
+31- git merge <branch name to be merge>
+To merge branch , switch to parent branch
+
 
 
 
