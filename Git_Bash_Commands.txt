@@ -100,6 +100,12 @@ $ git branch -d <branch-name>
 36- TO delete unmerged branch
 $ git branch -D <branch-name>
 
+37- To push branch to remote repo
+$git push origin <branch-name>
+
+38- To delete branch in remote repository
+$git push -d origin <branch-name>
+
 
 
 
