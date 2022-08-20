@@ -85,6 +85,21 @@ To check all the branches in repository
 31- git merge <branch name to be merge>
 To merge branch , switch to parent branch
 
+32- To check all branches with their last commit hash code and message
+$ git branch -v
+
+33- To check which branch are merged
+$ git branch --merged
+
+34- To check which branch are not merged
+$ git branch --no-merged
+
+35- To delete branch
+$ git branch -d <branch-name>  
+
+36- TO delete unmerged branch
+$ git branch -D <branch-name>
+
 
 
 
